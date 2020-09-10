@@ -3,9 +3,9 @@ About r-shinybusy
 
 Home: https://github.com/dreamRs/shinybusy
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Add a global indicator (spinner, progress bar, gif) in your 'shiny' applications to show the user that the server is busy.
 
