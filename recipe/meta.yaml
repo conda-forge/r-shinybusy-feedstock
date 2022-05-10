@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/shinybusy_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/shinybusy/shinybusy_{{ version }}.tar.gz
-  sha256: 4317ab967bc1bc99a49bcb210980f6b811459af94e387b9d8866605dca3b9d1d
+  sha256: 74d682ea7eeea04824b3761c2a2814d9e9260e1e56f6b334c298bc1b4d2107b1
 
 build:
   merge_build_host: true  # [win]
