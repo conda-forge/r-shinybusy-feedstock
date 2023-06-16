@@ -1,11 +1,11 @@
-About r-shinybusy
-=================
+About r-shinybusy-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinybusy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dreamRs/shinybusy
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinybusy-feedstock/blob/main/LICENSE.txt)
 
 Summary: Add a global indicator (spinner, progress bar, gif) in your 'shiny' applications to show the user that the server is busy.
 
